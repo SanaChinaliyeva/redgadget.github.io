@@ -32,7 +32,7 @@ Yes root it. So what are the things you need for that.
 4. From a terminal on a computer, type the following to boot the device into fastboot mode:
 {% highlight js %}
 $ adb reboot bootloader
-{% endhighlight %}
+{% endhighlight %}.
 
 
 5. Once the device is in fastboot mode, verify your PC sees the device by typing {% highlight js %}
