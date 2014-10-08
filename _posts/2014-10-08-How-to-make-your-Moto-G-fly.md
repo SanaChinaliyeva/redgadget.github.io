@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introducing Red Gadget
+title: Make your Moto G super awesome!
 published: true
 ---
 
-#Make your Moto G super awesome!
+#Easier steps!
