@@ -8,6 +8,7 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 
 ##Steps in brief
 
+* Backup all your data (may be on your PC) because unlocking the bootloader on a Motorola device will automatically wipe all device data
 * Root your phone (Unlocking the device)
 * Install Xposed Module
 * Install Gravity box
