@@ -11,7 +11,7 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 * Backup all your data (may be on your PC) because unlocking the bootloader on a Motorola device will automatically wipe all device data
 * Root your phone (Unlocking the device)
 * Install Recovery
-* Install Xposed Module
+* Install Xposed Framework
 * Install Gravity box
 
 
@@ -53,6 +53,8 @@ Yes root it. So what are the things you need for that.
 9. Since the device resets completely, you will need to re-enable USB debugging on the device to continue.
 
 Ok it's not done yet, that's just rooting your device. You have to install a recovery.
+
+Place the 
 
 ##Step 4: Recovery
 ### Installing Recovery on Moto G
@@ -101,4 +103,4 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
 
-Note: Some ROMs overwrite recovery at boot time so if you do not plan to immediately boot into recovery to install CyanogenMod, please be aware that this may overwrite your custom recovery with the stock one.
+We are almost there.
