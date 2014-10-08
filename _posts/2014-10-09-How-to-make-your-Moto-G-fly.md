@@ -25,7 +25,7 @@ Yes you are rooting your Moto G. Your warranty will be void. Your phone could ju
 ##Step 2: Backup all your data
 Once you root your device, you'll lose all the data stored your phone. So backup any sensitive data or media on a PC. 
 
-##Step 2 : Root your Moto G
+##Step 3 : Root your Moto G
 Yes root it. So what are the things you need for that.
 
 * A minimum of 70% battery charge on the phone (Not really necessary)
