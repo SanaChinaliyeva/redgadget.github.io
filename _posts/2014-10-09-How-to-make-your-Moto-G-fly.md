@@ -54,6 +54,8 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 1. Download recovery from [Unstable Apps Recovery Downloader](http://builder.unstableapps.com/#/latest/clockworkmodrecovery/falcon) to obtain the latest version of ClockworkMod recovery for your device.
 2. Connect the Moto G to the computer via USB.
 3. Make sure the fastboot binary is in your PATH or that you place the recovery image in the same directory as fastboot.
+
+
 4.Open a terminal on your PC and reboot the device into fastboot mode by typing
 		:::python
         #adb reboot bootloader
