@@ -31,9 +31,9 @@ Yes root it. So what are the things you need for that.
 3. Connect the device to the computer through USB.
 4. From a terminal on a computer, type the following to boot the device into fastboot mode
 
-		{% highlight js %}
+		~~~~~~
 		adb reboot bootloader
-		{% endhighlight %}
+		~~~~~~
 5.Once the device is in fastboot mode, verify your PC sees the device by typing {% highlight js %}
 fastboot devices
 {% endhighlight %}
