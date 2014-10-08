@@ -41,6 +41,6 @@ Yes root it. So what are the things you need for that.
 		
         fastboot oem get_unlock_data
         
-7. Visit the Motorola Bootloader Unlock website and follow the instructions there to obtain your unlock key.
+7. Visit the [Motorola Bootloader Unlock](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth) website and follow the instructions there to obtain your unlock key.
 8. If the device doesn't automatically reboot, reboot it from the menu. It should now be unlocked.
 9. Since the device resets completely, you will need to re-enable USB debugging on the device to continue.
