@@ -23,3 +23,19 @@ Yes root it. So what are the things you need for that.
 
 * A minimum of 70% battery charge on the phone (Not really necessary)
 * A USB cable
+* We assume that you have a PC
+
+###Unlocking
+1. Configure your computer for fastboot.
+2. Enable USB debugging on the device.
+3. Connect the device to the computer through USB.
+4. From a terminal on a computer, type the following to boot the device into fastboot mode:
+$ adb reboot bootloader
+Once the device is in fastboot mode, verify your PC sees the device by typing fastboot devices
+If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See fastboot documentation for more info.
+If you see "no permissions	fastboot", try running fastboot as root.
+From the same terminal, type the following command to obtain your bootloader unlock code:
+$ fastboot oem get_unlock_data
+Visit the Motorola Bootloader Unlock website and follow the instructions there to obtain your unlock key.
+If the device doesn't automatically reboot, reboot it from the menu. It should now be unlocked.
+Since the device resets completely, you will need to re-enable USB debugging on the device to continue.
