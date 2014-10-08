@@ -8,6 +8,9 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 
 ##Steps in brief
 Our main goal is to install Xposed Framework on your device. [What is Xposed Framework?](http://www.xda-developers.com/android/android-basics-101-understanding-xposed-framework-xda-developer-tv/)
+
+
+
 * Backup all your data (may be on your PC) because unlocking the bootloader on a Motorola device will automatically wipe all device data
 * Root your phone (Unlocking the device)
 * Install Recovery
