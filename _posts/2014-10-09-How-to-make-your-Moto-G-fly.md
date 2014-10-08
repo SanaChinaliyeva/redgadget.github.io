@@ -82,7 +82,7 @@ or by using the hardware key combination for your device while it is powered off
 
 where the latter part is the filename of the recovery image.
 
-7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use #Volume Down# to scroll to recovery and then use <b>Volume Up</b> to select.
+7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
 
 Note: Some ROMs overwrite recovery at boot time so if you do not plan to immediately boot into recovery to install CyanogenMod, please be aware that this may overwrite your custom recovery with the stock one.
