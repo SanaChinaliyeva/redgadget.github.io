@@ -114,10 +114,7 @@ We are almost there...
 ##Step 5: Xposed Framework
 
 Now that you are done rooting your phone you can install [XposedFramework.apk](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) like any other android application.
-
-
-
-Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>. This will install XposedFramework.zip on your device. Now reboot your device.
+Now it'll ask for a reboot.
 
 >If your Xposed Framework doesn't work then you may have to install [supersu](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en) on your device.
 
