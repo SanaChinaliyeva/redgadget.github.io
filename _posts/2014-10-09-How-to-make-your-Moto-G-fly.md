@@ -79,15 +79,13 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 
 
 
-
-
 6. Flash recovery onto your device by entering the following command:
 		
         fastboot flash recovery your_recovery_image.img
 
 
 
-where the latter part is the filename of the recovery image.
+	where the latter part is the filename of the recovery image.
 
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
