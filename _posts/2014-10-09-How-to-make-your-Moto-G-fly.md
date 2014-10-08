@@ -55,14 +55,18 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 2. Connect the Moto G to the computer via USB.
 3. Make sure the fastboot binary is in your PATH or that you place the recovery image in the same directory as fastboot.
 4.Open a terminal on your PC and reboot the device into fastboot mode by typing
-		adb reboot bootloader
+		:::python
+        #adb reboot bootloader
+        
 or by using the hardware key combination for your device while it is powered off.
-Once the device is in fastboot mode, verify your PC sees the device by typing
-fastboot devices
-If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See fastboot documentation for more info.
-If you see "no permissions	fastboot", make sure your UDEV rules are setup correctly.
-Flash recovery onto your device by entering the following command:
-fastboot flash recovery your_recovery_image.img
+5. Once the device is in fastboot mode, verify your PC sees the device by typing
+		:::python
+        #fastboot devices
+	*If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See fastboot documentation for more info.
+	*If you see "no permissions	fastboot", make sure your UDEV rules are setup correctly.
+6. Flash recovery onto your device by entering the following command:
+		:::python
+        #fastboot flash recovery your_recovery_image.img
 where the latter part is the filename of the recovery image.
-Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold Volume Down & Power simultaneously. On the next screen use Volume Down to scroll to recovery and then use Volume Up to select.
+7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold #Volume Down# & #Power# simultaneously. On the next screen use #Volume Down# to scroll to recovery and then use #Volume Up# to select.
 Note: Some ROMs overwrite recovery at boot time so if you do not plan to immediately boot into recovery to install CyanogenMod, please be aware that this may overwrite your custom recovery with the stock one.
