@@ -30,7 +30,10 @@ Yes root it. So what are the things you need for that.
 2. Enable USB debugging on the device.
 3. Connect the device to the computer through USB.
 4. From a terminal on a computer, type the following to boot the device into fastboot mode:
+{% highlight js %}
 $ adb reboot bootloader
+{% endhighlight %}
+
 Once the device is in fastboot mode, verify your PC sees the device by typing fastboot devices
 If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See fastboot documentation for more info.
 If you see "no permissions	fastboot", try running fastboot as root.
