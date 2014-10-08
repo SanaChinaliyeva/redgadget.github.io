@@ -125,5 +125,6 @@ Xposed Framework will look like the below screenshot.
 Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon, type <b>GravityBox</b> and install it.
 >You may have to reboot a lot many times than usual, but it's worth it.
 
+#What I've done with my mobile.
 
 
