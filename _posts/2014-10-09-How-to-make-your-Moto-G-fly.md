@@ -60,6 +60,8 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 		:::python
         #adb reboot bootloader
         
+
+
 or by using the hardware key combination for your device while it is powered off.
 
 5. Once the device is in fastboot mode, verify your PC sees the device by typing
@@ -71,6 +73,9 @@ or by using the hardware key combination for your device while it is powered off
 6. Flash recovery onto your device by entering the following command:
 		:::python
         #fastboot flash recovery your_recovery_image.img
+
+
+
 where the latter part is the filename of the recovery image.
 
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold #Volume Down# & #Power# simultaneously. On the next screen use #Volume Down# to scroll to recovery and then use #Volume Up# to select.
