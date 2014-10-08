@@ -13,6 +13,8 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 * Install Recovery
 * Install Xposed Module
 * Install Gravity box
+
+
 That's all!
 
 
