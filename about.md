@@ -12,13 +12,15 @@ There were lot of challenges while bringing this blog out. Almost all of them ar
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+We started this blog on 8th of OCtober 2014. The intentio was to try a blog through which we can be up to date about the latest technology. This blog has helped many people in chosing their gadgets right.
 
-* Built for [Jekyll](http://jekyllrb.com)
+Some facts about the blog:
+
+* Built on Jekyll
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Coded with [Prose](http://prose.io), an amazing online editor
+* Designed and developed in a small town.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on email](mailto:kopnicinc@gmail.com).
 
 Thanks for reading!
