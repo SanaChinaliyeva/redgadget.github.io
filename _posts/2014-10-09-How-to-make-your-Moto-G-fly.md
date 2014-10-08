@@ -83,8 +83,8 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
          
          
          
-     > If you don't see your device serial number, and instead see "waiting for device", fastboot is not configured properly on your machine. See fastboot documentation for more info.
-     > If you see "no permissions fastboot", make sure your [UDEV](http://developer.android.com/tools/device.html) rules are setup correctly.
+     // If you don't see your device serial number, and instead see "waiting for device", fastboot is not configured properly on your machine. See fastboot documentation for more info.
+     //If you see "no permissions fastboot", make sure your [UDEV](http://developer.android.com/tools/device.html) rules are setup correctly.
 
 
 
