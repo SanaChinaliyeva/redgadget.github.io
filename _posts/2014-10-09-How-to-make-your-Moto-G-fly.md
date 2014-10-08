@@ -56,7 +56,7 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 3. Make sure the fastboot binary is in your PATH or that you place the recovery image in the same directory as fastboot.
 
 
-4.Open a terminal on your PC and reboot the device into fastboot mode by typing
+4. Open a terminal on your PC and reboot the device into fastboot mode by typing
 		
         
         adb reboot bootloader
