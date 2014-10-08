@@ -132,11 +132,17 @@ Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon,
 
 #What I've done with my mobile.
 I have installed some modules like
+
 1. GravityBox (great way to customize your phone)
+
 2. Greenify (saves a lot of battery juice)
+
 3. MiniGuard (no ads in selected apps!)
+
 4. Tinted Status Bar (status bar takes up the color of the app you have launched)
+
 5. Xtended NavBar (navigation bar can be swiped to have music control buttons and quick toggles)
+
 6. XuiMod (some animation and stuff)
 
 ![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
