@@ -139,6 +139,8 @@ I have installed some modules like
 5. Xtended NavBar (navigation bar can be swiped to have music control buttons and quick toggles)
 6. XuiMod (some animation and stuff)
 
+![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
+
 
 
 
