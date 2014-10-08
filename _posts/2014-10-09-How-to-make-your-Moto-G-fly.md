@@ -62,7 +62,7 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
         adb reboot bootloader
         
 
-		or by using the hardware key combination for your device while it is powered off.
+	or by using the hardware key combination for your device while it is powered off.
 
 
 
