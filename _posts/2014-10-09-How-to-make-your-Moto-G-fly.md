@@ -79,6 +79,8 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 
 
 
+
+
 6. Flash recovery onto your device by entering the following command:
 		
         fastboot flash recovery your_recovery_image.img
