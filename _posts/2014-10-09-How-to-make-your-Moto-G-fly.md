@@ -159,4 +159,11 @@ I have installed some modules like
 
 ![Navigation Bar Tweaks](https://lh6.googleusercontent.com/-QA6_84vYQZY/VDVU6UfMYyI/AAAAAAAAACM/cO2EWwXvMjA/w1004-h593-no/navbar.jpg)
 
+----------------
+>Finally the GravityBox. This is the module through which you can change almost anything on your phone. All those quick toggles you saw on the first screenshot was because of GravityBox. Customize your phone as you like. There are youtube videos available on how to use GravityBox!
+![GravityBox Tweaks](https://lh5.googleusercontent.com/-Oo0q9P-dAr0/VDVU52wlsKI/AAAAAAAAACI/O6OSMAIZwV0/w1008-h593-no/gravitybox.jpg)
+
+
+Thanks!
+
 
