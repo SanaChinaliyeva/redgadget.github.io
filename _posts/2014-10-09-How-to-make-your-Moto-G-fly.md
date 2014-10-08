@@ -147,6 +147,8 @@ I have installed some modules like
 
 
 Here I have changed my status bar color. Usually the icons will be white, I have changed them to cyan. The tiles in the second screenshot are not available in stock ROM. I have quicktoggle tiles that are really awesome. There is a camera tile, on clicking which you can take photos rightaway. No need to open camera app!
+
+
 ![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
 
 
