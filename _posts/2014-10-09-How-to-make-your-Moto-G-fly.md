@@ -67,16 +67,16 @@ or by using the hardware key combination for your device while it is powered off
 5. Once the device is in fastboot mode, verify your PC sees the device by typing
 		
         
-        :::python
-        #fastboot devices
+        
+        fastboot devices
         
         
 	*If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See fastboot documentation for more info.
 	*If you see "no permissions	fastboot", make sure your UDEV rules are setup correctly.
 
 6. Flash recovery onto your device by entering the following command:
-		:::python
-        #fastboot flash recovery your_recovery_image.img
+		
+        fastboot flash recovery your_recovery_image.img
 
 
 
