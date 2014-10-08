@@ -34,6 +34,7 @@ Yes root it. So what are the things you need for that.
 $ adb reboot bootloader
 {% endhighlight %}
 
+
 5. Once the device is in fastboot mode, verify your PC sees the device by typing {% highlight js %}
 fastboot devices
 {% endhighlight %}
