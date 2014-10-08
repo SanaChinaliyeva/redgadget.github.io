@@ -7,7 +7,7 @@ published: true
 Installing a custom ROM on your Moto G could be a tedious process. But there is an easier solution for this! You can have all those features of a custom ROM in your stock ROM without any hassle ( a little hassle).
 
 ##Steps in brief
-
+Our main goal is to install Xposed Framework on your device. [What is Xposed Framework?](http://www.xda-developers.com/android/android-basics-101-understanding-xposed-framework-xda-developer-tv/)
 * Backup all your data (may be on your PC) because unlocking the bootloader on a Motorola device will automatically wipe all device data
 * Root your phone (Unlocking the device)
 * Install Recovery
@@ -113,3 +113,4 @@ Once you see the above screenshot, navigate to 'install zip from sdcard'.
 
 Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>
 This will install XposedFramework.zip on your device. Now reboot your device.
+
