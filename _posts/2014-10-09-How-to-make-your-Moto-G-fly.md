@@ -55,8 +55,10 @@ Yes root it. So what are the things you need for that.
 
 Ok it's not done yet, that's just rooting your device. You have to install a recovery.
 
-### Placing the [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) in the phone.
-Download and move the [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) to your phone.
+### Placing the [XposedFramework.apk](http://repo.xposed.info/module/de.robv.android.xposed.installer) in the phone.
+Download and move the [XposedFramework.apk](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) to your phone.
+
+>This can be done later as well.
 
 ##Step 4: Recovery
 ### Installing Recovery on Moto G
