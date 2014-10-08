@@ -14,6 +14,7 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 * Install Gravity box
 
 
+#Rooting
 
 ##Step 1 : Take deep breaths!
 Yes you are rooting your Moto G. Your warranty will be void. Your phone coud be months old and you are afraid to do any stupid thing on it. Take deep breaths. Don't worry if you brick your phone, you can always unbrick it.
@@ -44,3 +45,7 @@ Yes root it. So what are the things you need for that.
 7. Visit the [Motorola Bootloader Unlock](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth) website and follow the instructions there to obtain your unlock key.
 8. If the device doesn't automatically reboot, reboot it from the menu. It should now be unlocked.
 9. Since the device resets completely, you will need to re-enable USB debugging on the device to continue.
+
+Ok it's not done yet, that's just rooting your device. You have to install a recovery.
+
+#Recovery
