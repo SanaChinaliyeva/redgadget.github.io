@@ -22,6 +22,8 @@ That's all!
 
 ##Step 1 : Take deep breaths!
 Yes you are rooting your Moto G. Your warranty will be void. Your phone could just be months old and you are afraid to do any stupid thing on it. Take deep breaths. Don't worry if you brick your phone, you can always unbrick it.
+##Step 2: Backup all your data
+Once you root your device, you'll lose all the data stored your phone. So backup any sensitive data or media on a PC. 
 
 ##Step 2 : Root your Moto G
 Yes root it. So what are the things you need for that.
