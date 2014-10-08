@@ -37,9 +37,9 @@ Yes root it. So what are the things you need for that.
 5. Once the device is in fastboot mode, verify your PC sees the device by typing 
 		fastboot devices
 
-6. If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See [fastboot](http://forum.xda-developers.com/showthread.php?t=2277112) documentation for more info.
-7. If you see "no permissions	fastboot", try running fastboot as root.
-From the same terminal, type the following command to obtain your bootloader unlock code:
+	*If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See [fastboot](http://forum.xda-developers.com/showthread.php?t=2277112) documentation for more info.
+	*If you see "no permissions	fastboot", try running fastboot as root.
+6. From the same terminal, type the following command to obtain your bootloader unlock code:
 $ fastboot oem get_unlock_data
 Visit the Motorola Bootloader Unlock website and follow the instructions there to obtain your unlock key.
 If the device doesn't automatically reboot, reboot it from the menu. It should now be unlocked.
