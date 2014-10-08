@@ -13,7 +13,7 @@ Installing a custom ROM on your Moto G could be a tedious process. But there is 
 * Root your phone (Unlocking the device)
 * Install Recovery
 * Install Xposed Framework
-* Install Gravity box
+* Install GravityBox
 
 
 That's all!
@@ -122,9 +122,23 @@ Now it'll ask for a reboot.
 Xposed Framework will look like the below screenshot.
 ![Xposed Framework](https://lh4.googleusercontent.com/N4S2sV8JfrrdKLDgx1fvE-WvAbCMPXWUGR2H5uYnYQ=w928-h550-no)
 
-Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon, type <b>GravityBox</b> and install it.
+
 >You may have to reboot a lot many times than usual, but it's worth it.
 
+##Step 6: GravityBox
+Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon, type <b>GravityBox</b> and install it.
+
+
+
 #What I've done with my mobile.
+I have installed some modules like
+1. GravityBox (great way to customize your phone)
+2. Greenify (saves a lot of battery juice)
+3. MiniGuard (no ads in selected apps!)
+4. Tinted Status Bar (status bar takes up the color of the app you have launched)
+5. Xtended NavBar (navigation bar can be swiped to have music control buttons and quick toggles)
+6. XuiMod (some animation and stuff)
+
+
 
 
