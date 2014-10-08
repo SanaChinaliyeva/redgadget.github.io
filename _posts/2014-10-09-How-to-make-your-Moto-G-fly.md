@@ -116,7 +116,7 @@ Once you see the above screenshot, navigate to 'install zip from sdcard'.
 
 Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>. This will install XposedFramework.zip on your device. Now reboot your device.
 
->If your Xposed Framework doesn't work then you may have to install [super user](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en) on your device.
+>If your Xposed Framework doesn't work then you may have to install [supersu](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en) on your device.
 
 
 Xposed Framework will look like the below screenshot.
