@@ -54,7 +54,8 @@ Yes root it. So what are the things you need for that.
 
 Ok it's not done yet, that's just rooting your device. You have to install a recovery.
 
-Place the 
+### Placing the [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) in the phone.
+Download and move the [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) to your phone.
 
 ##Step 4: Recovery
 ### Installing Recovery on Moto G
@@ -103,4 +104,9 @@ Place the
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
 
-We are almost there.
+We are almost there...
+
+Now that you are in recovery mode, remember that you have moved [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) into your phone. It's time to install that.
+
+![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
+Once you see the above screenshot, navigate to 'install zip from sdcard'.
