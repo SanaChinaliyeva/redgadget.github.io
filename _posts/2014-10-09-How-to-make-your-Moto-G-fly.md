@@ -122,5 +122,8 @@ Now it opens up a list of all the folders and files on your phone. Navigate to X
 Xposed Framework will look like the below screenshot.
 ![Xposed Framework](https://lh4.googleusercontent.com/N4S2sV8JfrrdKLDgx1fvE-WvAbCMPXWUGR2H5uYnYQ=w928-h550-no)
 
+Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon, type <b>GravityBox</b> and install it.
+>You may have to reboot a lot many times than usual, but it;s worth it :)
+
 
 
