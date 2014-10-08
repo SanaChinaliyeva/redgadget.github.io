@@ -30,8 +30,6 @@ Yes root it. So what are the things you need for that.
 2. Enable USB debugging on the device.
 3. Connect the device to the computer through USB.
 4. From a terminal on a computer, type the following to boot the device into fastboot mode
-
-	
 		adb reboot bootloader
 		
 5. Once the device is in fastboot mode, verify your PC sees the device by typing 
@@ -40,8 +38,8 @@ Yes root it. So what are the things you need for that.
 	*If you don't see your device serial number, and instead see "<waiting for device>", fastboot is not configured properly on your machine. See [fastboot](http://forum.xda-developers.com/showthread.php?t=2277112) documentation for more info.
 	*If you see "no permissions	fastboot", try running fastboot as root.
 6. From the same terminal, type the following command to obtain your bootloader unlock code:
-
-		fastboot oem get_unlock_data
+		:::python
+        #fastboot oem get_unlock_data
         
 7. Visit the Motorola Bootloader Unlock website and follow the instructions there to obtain your unlock key.
 8. If the device doesn't automatically reboot, reboot it from the menu. It should now be unlocked.
