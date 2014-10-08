@@ -114,8 +114,9 @@ Now that you are in recovery mode, remember that you have moved [XposedFramework
 ![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
 Once you see the above screenshot, navigate to 'install zip from sdcard'.
 
-Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>
-This will install XposedFramework.zip on your device. Now reboot your device.
+Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>. This will install XposedFramework.zip on your device. Now reboot your device.
+
+
 It will look like the below screenshot.
 ![Xposed Framework](https://lh4.googleusercontent.com/N4S2sV8JfrrdKLDgx1fvE-WvAbCMPXWUGR2H5uYnYQ=w928-h550-no)
 
