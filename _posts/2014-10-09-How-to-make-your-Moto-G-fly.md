@@ -57,10 +57,10 @@ Ok it's not done yet, that's just rooting your device. You have to install a rec
 
 
 4.Open a terminal on your PC and reboot the device into fastboot mode by typing
-		:::python
-        #adb reboot bootloader
+		
         
-
+        adb reboot bootloader
+        
 
 or by using the hardware key combination for your device while it is powered off.
 
