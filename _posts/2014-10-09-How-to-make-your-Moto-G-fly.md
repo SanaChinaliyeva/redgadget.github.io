@@ -107,6 +107,8 @@ Download and move the [XposedFramework.zip](http://dl.xposed.info/modules/de.rob
 
 We are almost there...
 
+##Step 5: Xposed Framework
+
 Now that you are in recovery mode, remember that you have moved [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) into your phone. It's time to install that.
 
 ![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
