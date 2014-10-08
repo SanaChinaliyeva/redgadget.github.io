@@ -154,13 +154,13 @@ I have installed some modules like
 ![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
 
 ---------------
->Xtended NavBar does some cool stuff with your navigation bar. You can now swipe it and control music and other toggles. Not a great deal but once you get used to this then you'll know how hard it is to pull down and click on a quick toggle to turn your Wi-Fi on!
+><b>Xtended NavBar</b> does some cool stuff with your navigation bar. You can now swipe it and control music and other toggles. Not a great deal but once you get used to this then you'll know how hard it is to pull down and click on a quick toggle to turn your Wi-Fi on!
 
 
 ![Navigation Bar Tweaks](https://lh6.googleusercontent.com/-QA6_84vYQZY/VDVU6UfMYyI/AAAAAAAAACM/cO2EWwXvMjA/w1004-h593-no/navbar.jpg)
 
 ----------------
->Finally the GravityBox. This is the module through which you can change almost anything on your phone. All those quick toggles you saw on the first screenshot was because of GravityBox. Customize your phone as you like. There are youtube videos available on how to use GravityBox!
+>Finally the <b>GravityBox</b>. This is the module through which you can change almost anything on your phone. All those quick toggles you saw on the first screenshot was because of GravityBox. Customize your phone as you like. There are youtube videos available on how to use GravityBox!
 ![GravityBox Tweaks](https://lh5.googleusercontent.com/-Oo0q9P-dAr0/VDVU52wlsKI/AAAAAAAAACI/O6OSMAIZwV0/w1008-h593-no/gravitybox.jpg)
 
 
