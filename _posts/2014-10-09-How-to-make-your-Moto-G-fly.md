@@ -119,9 +119,7 @@ Now it opens up a list of all the folders and files on your phone. Navigate to X
 >If your Xposed Framework doesn't work then you may have to install [super user](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en) on your device.
 
 
-
-
-It will look like the below screenshot.
+Xposed Framework will look like the below screenshot.
 ![Xposed Framework](https://lh4.googleusercontent.com/N4S2sV8JfrrdKLDgx1fvE-WvAbCMPXWUGR2H5uYnYQ=w928-h550-no)
 
 
