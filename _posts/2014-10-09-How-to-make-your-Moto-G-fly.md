@@ -106,15 +106,16 @@ Download and move the [XposedFramework.apk](http://dl.xposed.info/modules/de.rob
 
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
+Recovery mode looks like this. 
+![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
 
 We are almost there...
 
 ##Step 5: Xposed Framework
 
-Now that you are in recovery mode, remember that you have moved [XposedFramework.zip](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) into your phone. It's time to install that.
+Now that you are done rooting your phone you can install [XposedFramework.apk](http://dl.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk) like any other android application.
 
-![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
-Once you see the above screenshot, navigate to 'install zip from sdcard'.
+
 
 Now it opens up a list of all the folders and files on your phone. Navigate to XposedFramework.zip and click on <b>Power button</b>. This will install XposedFramework.zip on your device. Now reboot your device.
 
