@@ -4,7 +4,7 @@ title: "Make your Moto G super awesome!"
 published: true
 ---
 
-Installing a custom ROM on your Moto G could be a tedious process. But there is an easier solution for this! You can have all those features of a custom ROM in your stock ROM without any hassle ( a little hassle).
+Installing a custom ROM on your Moto G could be a tedious process. But there is an easier solution for this! You can have all those features of a <b>custom ROM</b> in your <b>stock ROM</b> without any hassle ( a little hassle) by installing <b>Xposed Framework</b>.
 
 ##Steps in brief
 > Our main goal is to install Xposed Framework on your device. [What is Xposed Framework?](http://www.xda-developers.com/android/android-basics-101-understanding-xposed-framework-xda-developer-tv/)
