@@ -145,6 +145,8 @@ I have installed some modules like
 
 6. XuiMod (some animation and stuff)
 
+
+Here I have changed my status bar color. Usually the icons will be white, I have changed them to cyan.
 ![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
 
 
