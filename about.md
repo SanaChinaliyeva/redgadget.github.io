@@ -10,8 +10,6 @@ published: true
 
 There were lot of challenges while bringing this blog out. Almost all of them are met today.
 
-
-
 ## Setup
 
 Some fun facts about the setup of this project include:
