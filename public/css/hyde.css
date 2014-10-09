@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: inherit;
   font-size: 2.5rem;
 
   
