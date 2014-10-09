@@ -10,7 +10,7 @@ published: true
 
 There were lot of challenges while bringing this blog out. Almost all of them are met today.
 
-## Setup
+## How it all happened?
 
 We started this blog on 8th of October 2014. The intention was to try a blog through which we can be up to date about the latest technology. We are happy that this blog has helped many people in chosing their gadgets right.
 
