@@ -109,6 +109,9 @@ Download and move the [XposedFramework.apk](http://dl.xposed.info/modules/de.rob
 Recovery mode looks like this. 
 ![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
 
+Reboot the device. Install [supersu](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en).
+
+
 We are almost there...
 
 ##Step 5: Xposed Framework
