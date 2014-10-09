@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Red-Gadget
 tagline:          'A tech blog'
-description:      'Technology changes everyday!'
+description:      'Technology changes everyday! We try to keep you posted on everything related to new technology'
 url:              http://dxartist.com
 baseurl:          /
 
