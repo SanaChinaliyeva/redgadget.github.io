@@ -112,7 +112,7 @@ Recovery mode looks like this.
 Reboot the device. Install [supersu](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en).
 
 
-We are almost there...
+>We are almost there...
 
 ##Step 5: Xposed Framework
 
