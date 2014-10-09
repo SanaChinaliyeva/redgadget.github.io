@@ -133,7 +133,7 @@ Now in <b>Xposed Framework</b> navigate to <b>Download</b> click on search icon,
 
 That's all, you are good to try all the customizations now.
 -----------------
--------------------
+
 
 #What I've done with my mobile.
 I have installed some modules like
