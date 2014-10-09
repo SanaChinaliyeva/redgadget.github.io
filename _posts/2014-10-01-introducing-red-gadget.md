@@ -8,7 +8,7 @@ Red Gadget is a tech blog for updates about all the new gadgets in market and th
 
 ### Technology changes everyday
 
-Red Gadget was found on 2014 in partnership with [dxartist](http://www.dxartist.com) with an intention to keep everyone informd of the latest cutting edge technology. 
+Red Gadget was found on 2014 in partnership with [dxartist](http://www.dxartist.com) with an intention to keep everyone informed of the latest cutting edge technology. 
 
 
 
