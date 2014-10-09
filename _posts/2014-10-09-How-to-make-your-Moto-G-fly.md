@@ -152,7 +152,7 @@ I have installed some modules like
 
 ##what it looks like?
 
->Here I have changed my status bar color. Usually the icons will be white, I have changed them to cyan. The tiles on the second screenshot are not available in stock ROM. I have quick toggle tiles that are really awesome. There is a camera tile, on clicking which you can take photos rightaway. No need to open camera app! The navigation bar is already using the Android L navbar. This is cool right?
+>Here I have changed my status bar color. Usually the icons will be white, I have changed them to cyan. The tiles on the second screenshot are not available in stock ROM. I have quick toggle tiles that are really awesome. There is a camera tile, on clicking which you can take photos rightaway. No need to open camera app! The navigation bar is already using the <b>Android L</b> navbar. This is cool right?
 
 
 ![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
