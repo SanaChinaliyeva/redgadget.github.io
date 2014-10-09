@@ -4,9 +4,9 @@ title: Introducing Red Gadget
 published: true
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Red Gadget is a tech blog for updates about all the new gadgets in market and their reviews from recognized tech people.
 
-### Built on Poole
+### Technology changes everyday
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
