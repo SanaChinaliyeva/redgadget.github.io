@@ -4,9 +4,9 @@ title: About
 published: true
 ---
 
-<p class="message">
-  Hey there! We are at Red-Gadget post blogs about any new technology that has a potential to become a big hit in the near future.
-</p>
+
+  >Hey there! We are at Red-Gadget post blogs about any new technology that has a potential to become a big hit in the near future.
+
 
 There were lot of challenges while bringing this blog out. Almost all of them have met today.
 
