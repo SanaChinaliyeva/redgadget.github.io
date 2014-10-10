@@ -12,7 +12,7 @@ The company is expanding its Superchargers across the globe. And Now they have a
 
 
 
-
+Elon Musk (Tesla CEO) Tweeted this on Oct 2nd
 
 
 
