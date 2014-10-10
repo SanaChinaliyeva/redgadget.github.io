@@ -13,7 +13,6 @@ The company is expanding its Superchargers across the globe. And Now they have a
 
 
 
-{% tweet https://twitter.com/elonmusk/status/517486950589014016 %}
 
 
 
