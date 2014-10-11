@@ -18,4 +18,9 @@ Elon Musk (Tesla CEO) posted this on October 2nd
 
 
 
-{%twitter http://t.co/qp23yi59i6 %}
+{%tweet http://t.co/qp23yi59i6 %}
+
+
+
+
+{% tweet https://twitter.com/DEVOPS_BORAT/status/159849628819402752 %}
