@@ -21,6 +21,6 @@ Some facts about the blog:
 * Coded with [Prose](http://prose.io), an amazing online editor
 * Designed and developed in a small town.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on email](mailto:kopnicinc@gmail.com).
+Have questions or suggestions? Feel free to [ask me on email](mailto:kopnicinc@gmail.com).
 
 Thanks for reading!
