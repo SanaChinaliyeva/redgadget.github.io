@@ -12,7 +12,7 @@ Square of the pawn
 
 ![chess](https://lh3.googleusercontent.com/-6-Tin_KsgzQ/VDpmAbSDonI/AAAAAAAAAI4/HmfgYa7jqn4/w481-h475-no/square-of-pawn.JPG)
 
-
+saves a lot of time calculating when under time pressure.
 
 
 ------------------------------------
