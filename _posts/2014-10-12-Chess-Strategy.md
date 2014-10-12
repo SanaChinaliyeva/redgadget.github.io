@@ -4,6 +4,7 @@ title: Chess end game
 published: true
 ---
 
+Understanding End Game is really important.
 Connected passed pawns: talk about two pawns against king
 
 ![chess](https://lh4.googleusercontent.com/-1IBGnbA-apY/VDpjfA6HvxI/AAAAAAAAAIU/aoWcNNAD2oU/w484-h478-no/chess.JPG)
