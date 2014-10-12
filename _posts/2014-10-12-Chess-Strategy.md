@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chess strategy
+title: Chess end game
 published: true
 ---
 
-we'll discuss critical chess principles, building blocks to the most advanced chess ideas. 
+Connected passed pawns
