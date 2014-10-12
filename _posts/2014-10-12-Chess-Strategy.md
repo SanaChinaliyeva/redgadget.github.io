@@ -51,7 +51,10 @@ It is useful when you have a target to attack.
 here g2
 
 
-![attack](https://plus.google.com/u/0/photos/112302653027130232752/albums/6069278365514431489/6069278369056311906?pid=6069278369056311906&oid=112302653027130232752)
+![attack](https://lh5.googleusercontent.com/-m3Jcw7-AGko/VDpohS6QSmI/AAAAAAAAAJg/PxWGQYzlL1I/s351-no/attck.JPG)
+
+
+
 
 
 
