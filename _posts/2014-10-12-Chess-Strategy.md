@@ -34,3 +34,25 @@ g7 Kh7
 Kf7 and win
 
 -------------------------------------
+
+Attacking: Attacking is the preference of most of the players like Bobby fishcher
+
+When you wanna attack you need to know 2 things
+attack at 
+
+right time
+
+right place
+
+if you have more attackers then that's the time to strike. If not you should wait.
+
+It is useful when you have a target to attack.
+
+here g2
+
+
+![attack](https://plus.google.com/u/0/photos/112302653027130232752/albums/6069278365514431489/6069278369056311906?pid=6069278369056311906&oid=112302653027130232752)
+
+
+
+
