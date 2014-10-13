@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: All Blog Posts
 published: true
 ---
-
 
 {% include allblog.html %}
