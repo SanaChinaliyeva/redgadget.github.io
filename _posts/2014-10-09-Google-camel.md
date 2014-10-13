@@ -10,7 +10,7 @@ Google took to the sands to expand its globe-spanning Street View imagery, using
 
 The Trekker pack is what Google uses to capture Street View imagery where its cars can’t or shouldn’t tread – though traditionally, they’re worn and carried by human hosts, not dromedaries. Google has previously used the Trekker to map the Grand Canyon, the wild northland of Canada, and many other destinations. At its I/O developer conference in 2013, we went ‘backs-on’ with the kit to see what it’s like, and the camels shouldn’t have much trouble with the load.
 
-<iframe width="699" height="393" src="//www.youtube.com/embed/4pVCToDTbT4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/4pVCToDTbT4" frameborder="0" allowfullscreen></iframe>
 
 
 >source -techcrunch
