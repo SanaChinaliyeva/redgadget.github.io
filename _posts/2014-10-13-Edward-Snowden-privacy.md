@@ -15,7 +15,7 @@ According to [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden), peop
  
  In a [June blog post](https://blog.dropbox.com/2014/06/weve-got-your-back/) related to Snowden, [Dropbox](https://www.dropbox.com/) actually says, "All files sent and retrieved from Dropbox are encrypted while traveling between you and our servers," as well as when they're "at rest on our servers," and it points to other security measures that the company is taking. The difference between [Dropbox](https://www.dropbox.com/) and [SpiderOak](https://spideroak.com/), as explained elsewhere, is that [SpiderOak](https://spideroak.com/) encrypts the data while it's on your computer, as opposed to only encrypting it "in transit" and on the company's servers.
 
-> We're talking about encryption. We're talking about dropping programs that are hostile to privacy. For example, Dropbox? Get rid of [Dropbox](https://www.dropbox.com/), it doesn't support encryption, it doesn't protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you're sharing.
+> We're talking about encryption. We're talking about dropping programs that are hostile to privacy. For example, [Dropbox](https://www.dropbox.com/)? Get rid of [Dropbox](https://www.dropbox.com/), it doesn't support encryption, it doesn't protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you're sharing.
 
 >--Edward Snowden
 
