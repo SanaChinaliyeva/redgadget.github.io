@@ -23,3 +23,9 @@ According to Edward Snowden, people who care about their privacy should stay awa
 >--Edward Snowden
 
 He also suggested that while Facebook and Google have improved their security, they remain “dangerous services” that people should avoid. (Somewhat amusingly, anyone watching the interview via Google Hangout or YouTube saw a Google logo above Snowden’s face as he said this.) His final piece of advice on this front: Don’t send unencrypted text messages, but instead use services like RedPhone and Silent Circle.
+
+
+
+> We can have secret programs. You know, the American people don’t have to know the name of every individual that’s under investigation. We don’t need to know the technical details of absolutely every program in the intelligence community. But we do have to know the bare and broad outlines of the powers our government is claiming, and how they affect us and how they affect our relationships overseas. Because if we don’t, we are no longer citizens, we no longer have leaders. We’re subjects, and we have rulers.
+
+>--Edward Snowden
