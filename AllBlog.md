@@ -1,9 +1,3 @@
----
-layout: page
-title: All Blog Posts
-published: true
----
-
 
 
 
