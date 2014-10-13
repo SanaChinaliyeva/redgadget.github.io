@@ -11,13 +11,13 @@ London is getting new Tube trains for the next 40 years. Last week, London unvei
 
 
 ##Features
-*futuristic design
+* futuristic design
  
-*walk-through car
+* walk-through car
  
-*air-cooling
+* air-cooling
 
-*onboard WiFi!!
+* onboard WiFi!!
 
 
 
