@@ -11,13 +11,25 @@ London is getting new Tube trains for the next 40 years. Last week, London unvei
 
 
 ##Features
+* driveless
+
 * futuristic design
+
+* double doors 
  
 * walk-through car
  
 * air-cooling
 
 * onboard WiFi!!
+
+* digital screens
+
+* interior LED lights
+
+* average speed - 33km/h
+
+
 
 
 
