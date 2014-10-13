@@ -37,6 +37,6 @@ London is getting new Tube trains for the next 40 years. Last week, London unvei
 
 
 
-<iframe width="100%" height="500" src="//www.youtube.com/embed/Z3Q0FZUKHkY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="//www.youtube.com/embed/Z3Q0FZUKHkY" frameborder="0" allowfullscreen></iframe>
 
 ----------------
