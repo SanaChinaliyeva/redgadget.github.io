@@ -21,3 +21,5 @@ According to Edward Snowden, people who care about their privacy should stay awa
 > We're talking about encryption. We're talking about dropping programs that are hostile to privacy. For example, Dropbox? Get rid of Dropbox, it doesn't support encryption, it doesn't protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you're sharing.
 
 >--Edward Snowden
+
+He also suggested that while Facebook and Google have improved their security, they remain “dangerous services” that people should avoid. (Somewhat amusingly, anyone watching the interview via Google Hangout or YouTube saw a Google logo above Snowden’s face as he said this.) His final piece of advice on this front: Don’t send unencrypted text messages, but instead use services like RedPhone and Silent Circle.
