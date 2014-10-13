@@ -4,7 +4,7 @@ title: "Edward Snowden’s Privacy Tips!"
 published: true
 ---
 
-According to Edward Snowden, people who care about their privacy should stay away from popular consumer Internet services like [Dropbox](https://www.dropbox.com/), [Facebook](https://www.facebook.com/), and [Google](https://www.google.com).
+According to [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden), people who care about their privacy should stay away from popular consumer Internet services like [Dropbox](https://www.dropbox.com/), [Facebook](https://www.facebook.com/), and [Google](https://www.google.com).
  
  
 > When you say, ‘I have nothing to hide,’ you’re saying, ‘I don’t care about this right.’ You’re saying, ‘I don’t have this right, because I’ve got to the point where I have to justify it.’ The way rights work is, the government has to justify its intrusion into your rights.
