@@ -33,7 +33,7 @@ Here’s a full video of the interview. The discussion of privacy and consumer I
 
 
 
-<iframe width="699" height="393" src="//www.youtube.com/embed/fidq3jow8bc" frameborder="0" allowfullscreen></iframe>
+<iframe  src="//www.youtube.com/embed/fidq3jow8bc" frameborder="0" allowfullscreen></iframe>
 
 
 
