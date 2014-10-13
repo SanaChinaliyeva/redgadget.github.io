@@ -27,7 +27,9 @@ London is getting new Tube trains for the next 40 years. Last week, London unvei
 
 * interior LED lights
 
-* average speed - 33km/h
+* average speed 33km/h , upto 50mph.
+
+
 
 
 
