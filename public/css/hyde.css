@@ -46,6 +46,14 @@ html {
 }
 
 
+
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+width="100%" height="400"
+}
+
 /*
  * Sidebar
  *
