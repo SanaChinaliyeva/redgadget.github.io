@@ -13,13 +13,13 @@ According to Edward Snowden, people who care about their privacy should stay awa
  
  
  
- In a [June blog post](https://blog.dropbox.com/2014/06/weve-got-your-back/) related to Snowden, Dropbox actually says, "All files sent and retrieved from Dropbox are encrypted while traveling between you and our servers," as well as when they're "at rest on our servers," and it points to other security measures that the company is taking. The difference between Dropbox and [SpiderOak](https://spideroak.com/), as explained elsewhere, is that SpiderOak encrypts the data while it's on your computer, as opposed to only encrypting it "in transit" and on the company's servers.
+ In a [June blog post](https://blog.dropbox.com/2014/06/weve-got-your-back/) related to Snowden, Dropbox actually says, "All files sent and retrieved from Dropbox are encrypted while traveling between you and our servers," as well as when they're "at rest on our servers," and it points to other security measures that the company is taking. The difference between [Dropbox](https://www.dropbox.com/) and [SpiderOak](https://spideroak.com/), as explained elsewhere, is that [SpiderOak](https://spideroak.com/) encrypts the data while it's on your computer, as opposed to only encrypting it "in transit" and on the company's servers.
 
 > We're talking about encryption. We're talking about dropping programs that are hostile to privacy. For example, Dropbox? Get rid of Dropbox, it doesn't support encryption, it doesn't protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you're sharing.
 
 >--Edward Snowden
 
-He also suggested that while Facebook and Google have improved their security, they remain “dangerous services” that people should avoid. (Somewhat amusingly, anyone watching the interview via Google Hangout or YouTube saw a Google logo above Snowden’s face as he said this.) His final piece of advice on this front: Don’t send unencrypted text messages, but instead use services like RedPhone and Silent Circle.
+He also suggested that while [Facebook](https://www.facebook.com/) and [Google](https://www.google.com) have improved their security, they remain “dangerous services” that people should avoid. (Somewhat amusingly, anyone watching the interview via Google Hangout or YouTube saw a Google logo above Snowden’s face as he said this.) His final piece of advice on this front: Don’t send unencrypted text messages, but instead use services like [RedPhone](https://whispersystems.org/) and [Silent Circle](https://silentcircle.com/).
 
 
 
