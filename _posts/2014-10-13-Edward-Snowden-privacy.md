@@ -15,9 +15,6 @@ According to Edward Snowden, people who care about their privacy should stay awa
  
  In a June blog post related to Snowden, Dropbox actually says, "All files sent and retrieved from Dropbox are encrypted while traveling between you and our servers," as well as when they're "at rest on our servers," and it points to other security measures that the company is taking. The difference between Dropbox and SpiderOak, as explained elsewhere, is that SpiderOak encrypts the data while it's on your computer, as opposed to only encrypting it "in transit" and on the company's servers.
 
-<iframe width="699" height="393" src="//www.youtube.com/embed/fidq3jow8bc" frameborder="0" allowfullscreen></iframe>
-
-
 > We're talking about encryption. We're talking about dropping programs that are hostile to privacy. For example, Dropbox? Get rid of Dropbox, it doesn't support encryption, it doesn't protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you're sharing.
 
 >--Edward Snowden
@@ -29,3 +26,8 @@ He also suggested that while Facebook and Google have improved their security, t
 > We can have secret programs. You know, the American people don’t have to know the name of every individual that’s under investigation. We don’t need to know the technical details of absolutely every program in the intelligence community. But we do have to know the bare and broad outlines of the powers our government is claiming, and how they affect us and how they affect our relationships overseas. Because if we don’t, we are no longer citizens, we no longer have leaders. We’re subjects, and we have rulers.
 
 >--Edward Snowden
+
+
+
+Here’s a full video of the interview. The discussion of privacy and consumer Internet services 
+<iframe width="699" height="393" src="//www.youtube.com/embed/fidq3jow8bc" frameborder="0" allowfullscreen></iframe>
