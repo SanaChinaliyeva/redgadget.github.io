@@ -51,4 +51,11 @@ Ordered a TV in a 30-minute sale, paid by card, with a "no cancellation" clause.
 
 ---------------
 
+#Story 3
+
+##This one is funny
+
+
+![flip](https://lh6.googleusercontent.com/-pDxIMrR7fs8/VD4VWEuq2iI/AAAAAAAAARM/-GXZ3Gukc2Q/w485-h535-no/flipkart30.jpg)
+
 
