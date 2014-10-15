@@ -55,7 +55,13 @@ Ordered a TV in a 30-minute sale, paid by card, with a "no cancellation" clause.
 
 ##This one is funny
 
+A slipper's MRP is Rs.194. But they have mentioned the MRP as Rs.399 that has 52%off and the final price is Rs.148 ! 
+
 
 ![flip](https://lh6.googleusercontent.com/-pDxIMrR7fs8/VD4VWEuq2iI/AAAAAAAAARM/-GXZ3Gukc2Q/w485-h535-no/flipkart30.jpg)
+
+Well played flipkart !
+
+>--Pranesh Anantharaman
 
 
