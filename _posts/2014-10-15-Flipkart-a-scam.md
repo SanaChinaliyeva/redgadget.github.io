@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Flipkart Big Billion Day Story!"
+title: "Was Flipkart's Big Billion Day a scam?"
 published: true
 ---
