@@ -4,6 +4,8 @@ title: "Flipkart Big Billion Day Story!"
 published: true
 ---
 
+#Story 1
+
 ## A different story than others
 A lot of people have expressed their resentment towards flipkart. I have  a different story to share. Read on.
 
@@ -35,3 +37,6 @@ PS : one more funny offer someone found out.
 
 
 --------------
+
+
+#Story 2
