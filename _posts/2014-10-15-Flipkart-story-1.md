@@ -48,3 +48,7 @@ Ordered a TV in a 30-minute sale, paid by card, with a "no cancellation" clause.
 ![flippedkart](https://lh3.googleusercontent.com/-jDH3ctHt8uM/VD4Upwf6AmI/AAAAAAAAAQw/gWg9eQpAsiM/w1006-h485-no/flipkart20.png)
 
 >--Prateek Karandikar
+
+---------------
+
+
