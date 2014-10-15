@@ -23,7 +23,7 @@ subject: Simmtronics Xpad X802 Tablet
 Simmtronics Xpad X802 Tablet
 Offer: Sold Out
 Flat at Rs 99
-http://www.flipkart.com/simmtron....
+[http://www.flipkart.com/simmtron....](http://www.flipkart.com/simmtronics-xpad-x802-tablet/p/itmdjz8q2tey9cfy?pid=TABDJZ8Q2TEY9CFY&offer=D_Day_SimmtronicsXpad_StealDeal)
 
 Mail-2:
 
@@ -35,7 +35,7 @@ subject: HGST Touro Mobile 2.5 inch 1 TB External Hard Disk
 HGST Touro Mobile 2.5 inch 1 TB External Hard Disk
 Offer: Sold Out
 Flat 90% Off
-http://www.flipkart.com/hgst-tou....
+[http://www.flipkart.com/hgst-tou....](http://www.flipkart.com/hgst-touro-mobile-2-5-inch-1-tb-external-hard-disk/p/itmdv9f8ugypcxkb?pid=ACCDHUJHVBD9ZXZU&offer=D_Day_HGST1TBHarddrive_StealDeal)
 
 
 ----------------
