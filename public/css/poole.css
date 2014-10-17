@@ -91,8 +91,8 @@ a {
 a:active,
 a:hover {
     
-    color: #0a5;
-border-bottom: 2px solid #0a5;
+    color: #ac4142;
+border-bottom: 2px solid #ac4142;
 text-decoration: none;
 }
 
@@ -105,12 +105,12 @@ p a:link,
 p a:visited,
 li a:link, 
 li a:visited {
-    color: #0a5;
+    color: #ac4142;
 }
 
 p a:hover, li a:hover, figcaption a:hover {
     text-decoration: underline;
-    color: #a05;
+    color: #ac4142;
 }
 
 figcaption a {
