@@ -380,11 +380,7 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}
+
 .page-title,
 .post-title {
   margin-top: 0;
@@ -418,13 +414,8 @@ tbody tr:nth-child(odd) th {
   font-size: 75%;
   color: #999;
 }
-.related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
-}
-.related-posts li a:hover small {
-  color: inherit;
-}
+
+
 
 
 /*
