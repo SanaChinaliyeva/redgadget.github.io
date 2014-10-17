@@ -81,6 +81,7 @@ body {
 
 a {
     background: transparent;
+    text-decoration:none;
             -webkit-transition: all .25s ease;
             -o-transition: all .25s ease;
             -moz-transition: all .25s ease;
