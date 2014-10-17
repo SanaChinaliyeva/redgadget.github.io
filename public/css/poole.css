@@ -54,6 +54,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  
 }
 
 html {
@@ -62,6 +63,10 @@ html {
   line-height: 1.8;
 }
 
+::selection {
+background: #FFD454;
+color: #000;
+}
 
 
 
