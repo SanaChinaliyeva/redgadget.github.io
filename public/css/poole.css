@@ -94,6 +94,9 @@ a:hover {
     -o-transition: all .25s ease;
     -moz-transition: all .25s ease;
     transition: all .25s ease;    
+    color: #0a5;
+border-bottom: 2px solid #0a5;
+text-decoration: none;
 }
 
 a:focus {
