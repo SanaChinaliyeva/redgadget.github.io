@@ -39,6 +39,9 @@
 
 html {
    font-family: 'ppp-clean-sans', sans-serif;
+       font-size: 100%;
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%;
 }
 @media (min-width: 48em) {
   html {
