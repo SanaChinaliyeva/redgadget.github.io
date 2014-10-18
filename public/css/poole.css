@@ -90,8 +90,6 @@ body {
   -webkit-transition: all .25s ease;
             -o-transition: all .25s ease;
             -moz-transition: all .25s ease;
-    
-    
      color: #ac4142;
      transition: all 0.25s linear;
      text-decoration: none;
@@ -102,13 +100,12 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:active,
 a:hover {
-   -webkit-transition: all .25s ease;
+    -webkit-transition: all .25s ease;
     -o-transition: all .25s ease;
     -moz-transition: all .25s ease;
     transition: all .25s ease;     
-    
-
-  text-decoration: underline;
+    text-decoration-color:#ac4142;
+    text-decoration: underline;
  
 }
 
