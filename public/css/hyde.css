@@ -197,6 +197,18 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
+  
+  
+  background: transparent;
+  -webkit-transition: all 0.25s ease;
+-moz-transition: all 0.25s ease;
+-o-transition: all 0.25s ease;
+transition: all 0.25s ease;
+  word-wrap: break-word;
+text-decoration: none;
+  border-bottom: 2px solid #000;
+  
+  
   color: #ac4142;
 }
 
