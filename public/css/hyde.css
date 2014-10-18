@@ -196,12 +196,25 @@ a.sidebar-nav-item:focus {
   background-color: #ac4142;
 }
 .theme-base-08 .content a {
+    
+    -webkit-transition: all .25s ease;
+            -o-transition: all .25s ease;
+            -moz-transition: all .25s ease;
+    
+    
      color: #ac4142;
-     transition: all 0.2s linear;
+     transition: all 0.25s linear;
+     text-decoration: none;
 }
 .theme-base-08 .related-posts li a:hover {
     
+-webkit-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    transition: all .25s ease;     
+    
   color: #3498DB;
+  text-decoration: underline;
   
 }
 
