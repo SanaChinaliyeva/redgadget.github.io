@@ -195,26 +195,15 @@ a.sidebar-nav-item:focus {
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+.theme-base-08 .content a {
+     color: #ac4142;
+     transition: all 0.2s linear;
+}
+.theme-base-08 .related-posts li a:hover,a:focus {
+  color: #3498DB;
+  
 }
 
-*, *::before, *::after {
--webkit-box-sizing: border-box;
--moz-box-sizing: border-box;
-box-sizing: border-box;
-margin: 0;
-padding: 0;
-}
-
-*, *::before, *::after {
--webkit-box-sizing: border-box;
--moz-box-sizing: border-box;
-box-sizing: border-box;
-margin: 0;
-padding: 0;
-}
 
 
 /* Orange */
