@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fun fact aboub google
+title: Fun fact about google
 published: true
 ---
 
