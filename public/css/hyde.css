@@ -209,7 +209,7 @@ a.sidebar-nav-item:focus {
     -o-transition: all .25s ease;
     -moz-transition: all .25s ease;
     transition: all .25s ease;     
-    
+    text-decoration-color:#ac4142;
     text-decoration: underline;
     
     
