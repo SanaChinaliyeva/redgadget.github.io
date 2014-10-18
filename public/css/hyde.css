@@ -199,7 +199,7 @@ a.sidebar-nav-item:focus {
      color: #ac4142;
      transition: all 0.2s linear;
 }
-.theme-base-08 .related-posts li a:hover,a:focus {
+.theme-base-08 .related-posts li a:hover, {
   color: #3498DB;
   
 }
