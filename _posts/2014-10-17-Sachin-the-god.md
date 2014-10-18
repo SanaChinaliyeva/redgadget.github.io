@@ -9,12 +9,12 @@ There are two versions of the future(technology): one which goes in the way of t
 
 EmoSpark the world’s first home artificial intelligence console is an android powered Wi-Fi/Bluetooth cube which will recognize each family member’s preferences, that uses emotion text and content analysis to measure the emotional responses of its users. In fact, it actually detects the moods of several people in the room at a time, the same way people do, through facial recognition and learning to interact through conversation.
 
-![]
+![](https://lh5.googleusercontent.com/-U5OJ7U1b_f0/VEKUEgxgwmI/AAAAAAAAAS8/-fWo2N-dKIc/w301-h313-no/emospark1.png)
 
 Technically, EmoSpark accesses NASA’s MODIS satellite, the Freebase and Wiki databases and results in a platform so innovative it will spin the entertainment world on its side.
 Every EmoSpark has access to a communication grid, accessed only by other cubes, so will be able to recognize other cubes with a similar emotional profile. It can share media enjoyed by other cubes and then recommend this for your enjoyment(cubes can share only media files, so privacy will not be lost). It can interact with the family, help with homework and provide up-to-the-minute updates about anything local or global.
 
-![]
+![](https://lh4.googleusercontent.com/-VZYz_rMVh70/VEKUEwKFU7I/AAAAAAAAATA/ufOZHhCF9yo/w485-h238-no/emospark2.jpg)
 
 Since it is an A.I. device, it continues to learn and fine-tune its results over time.
 *As like our brain EmoSpark can also perceive and process billions of signals and stimuli over time. 
