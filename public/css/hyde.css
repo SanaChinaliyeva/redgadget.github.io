@@ -200,13 +200,11 @@ a.sidebar-nav-item:focus {
     -webkit-transition: all .25s ease;
             -o-transition: all .25s ease;
             -moz-transition: all .25s ease;
-    
-    
      color: #ac4142;
      transition: all 0.25s linear;
      text-decoration: none;
 }
-.theme-base-08 .content a {
+.theme-base-08 .content a :hover {
     -webkit-transition: all .25s ease;
     -o-transition: all .25s ease;
     -moz-transition: all .25s ease;
