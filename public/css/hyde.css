@@ -212,6 +212,16 @@ text-decoration: none;
   color: #ac4142;
 }
 
+*, *::before, *::after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+
+
 /* Orange */
 .theme-base-09 .sidebar {
   background-color: #d28445;
