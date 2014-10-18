@@ -16,26 +16,26 @@ Every EmoSpark has access to a communication grid, accessed only by other cubes,
 ![](https://lh4.googleusercontent.com/-VZYz_rMVh70/VEKUEwKFU7I/AAAAAAAAATA/ufOZHhCF9yo/w485-h238-no/emospark2.jpg)
 
 Since it is an A.I. device, it continues to learn and fine-tune its results over time.
-*As like our brain EmoSpark can also perceive and process billions of signals and stimuli over time. 
+* As like our brain EmoSpark can also perceive and process billions of signals and stimuli over time. 
 
-*The Cube connected to Google, Wikipedia and other free resources and is able to answer and project answers in over 39 million topics. 
+* The Cube connected to Google, Wikipedia and other free resources and is able to answer and project answers in over 39 million topics. 
 
-*You can interact EmoSpark by using your Smart phone, Tablet, T. v or PC. 
+* You can interact EmoSpark by using your Smart phone, Tablet, T. v or PC. 
 
-*EmoSpark can interact with individuals on a custom, conversational basis because it will recognize the user’s face.
+* EmoSpark can interact with individuals on a custom, conversational basis because it will recognize the user’s face.
 
-*As interactions become more frequent, EmoSpark will capture and store each emotional nuance with the sole intention of making the user happy.
+* As interactions become more frequent, EmoSpark will capture and store each emotional nuance with the sole intention of making the user happy.
 EmoSpark learns everything from you, the way you interact with it, comments and responses.
 
-*EmoSpark can feel an infinite variety in the emotional spectrum based on 8 primary human emotions, Joy, Sadness, Trust, Disgust, Fear, Anger, Surprise and Anticipation. 
+* EmoSpark can feel an infinite variety in the emotional spectrum based on 8 primary human emotions, Joy, Sadness, Trust, Disgust, Fear, Anger, Surprise and Anticipation. 
 
-*This Cube Measure your behavior and emotions, then in turn it will create a emotion profile that make you happy and feel comfortable.
+* This Cube Measure your behavior and emotions, then in turn it will create a emotion profile that make you happy and feel comfortable.
 
-*While it builds each unique Emotional Profile Graph (EPG), it will virtually “feel” sensations and emotions.
+* While it builds each unique Emotional Profile Graph (EPG), it will virtually “feel” sensations and emotions.
 
-The applications are unlimited. It already works with users’ smart phones, computers, televisions and games and can connect to Facebook, YouTube, Air play and more.
+* The applications are unlimited. It already works with users’ smart phones, computers, televisions and games and can connect to Facebook, YouTube, Air play and more.
 
-*The EmoSpark cube also doubles as an e-learning tool.
+* The EmoSpark cube also doubles as an e-learning tool.
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/odQw5BDnCRs" frameborder="0" allowfullscreen></iframe>
 
