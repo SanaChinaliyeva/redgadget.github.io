@@ -107,10 +107,9 @@ a:hover {
     -moz-transition: all .25s ease;
     transition: all .25s ease;     
     
-  color: #3498DB;
+
   text-decoration: underline;
-   -moz-text-decoration-color: red; /* Code for Firefox */
-    text-decoration-color: red;
+ 
 }
 
 
