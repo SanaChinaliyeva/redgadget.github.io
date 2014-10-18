@@ -195,19 +195,7 @@ a.sidebar-nav-item:focus {
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
-.theme-base-08 .content a {
-    
-      
-  background: transparent;
-  -webkit-transition: all 0.25s ease;
--moz-transition: all 0.25s ease;
--o-transition: all 0.25s ease;
-transition: all 0.25s ease;
-  word-wrap: break-word;
-text-decoration: none;
- 
-    
-}
+.theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
