@@ -71,6 +71,7 @@ html {
   color: rgba(255,255,255,.5);
   background-image: url('https://lh4.googleusercontent.com/-jhdILelZR8w/VEQEFpdno6I/AAAAAAAAD7Y/PKFi6LYG7Zk/w312-h593-no/red-background-2.png');
   background-repeat: no-repeat;
+  background-size: 100% 100%;
    
 }
 @media (min-width: 48em) {
