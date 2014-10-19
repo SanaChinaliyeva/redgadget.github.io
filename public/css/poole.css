@@ -370,6 +370,7 @@ tbody tr:nth-child(odd) th {
 .post-title {
   margin-top: 0;
   font-family: 'Open sans' sans-serif;
+  text-transform: uppercase;
 }
 
 
