@@ -369,7 +369,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title {
   margin-top: 0;
-  font-family: inherit;
+  font-family: 'Open sans' sans-serif;
 }
 
 
