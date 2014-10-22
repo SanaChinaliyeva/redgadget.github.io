@@ -105,7 +105,7 @@ h2, h3, h4, h5, h6 {
   font-family: ff-nexus-sans,sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 2;
+  line-height: 200%;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
