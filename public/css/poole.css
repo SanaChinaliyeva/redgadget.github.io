@@ -102,7 +102,7 @@ a:focus {
 /* Headings */
 h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: ff-nexus-sans,sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 2;
