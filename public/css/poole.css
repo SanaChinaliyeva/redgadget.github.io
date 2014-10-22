@@ -501,7 +501,7 @@ hr {
     background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc); 
     background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
     background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 	
-    margin-top: 100px;
-    margin-bottom:200px;
+    margin-top: 50px;
+    margin-bottom:100px;
 	
 }
