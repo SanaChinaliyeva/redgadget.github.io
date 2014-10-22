@@ -494,7 +494,7 @@ a.pagination-item:hover {
 }
 
 hr {
-   border: 0;
+   border: 1px;
     height: 3px;
     background: #333;
     background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
