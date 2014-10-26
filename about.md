@@ -4,7 +4,6 @@ title: About
 published: true
 ---
 
--------------
   >Hey there! We are at Red-Gadget post blogs about any new technology that has a potential to become a big hit in the near future.
 
 
@@ -24,3 +23,5 @@ Some facts about the blog:
 Have questions or suggestions? Feel free to [ask me on email](mailto:kopnicinc@gmail.com).
 
 Thanks for reading!
+
+------------------
