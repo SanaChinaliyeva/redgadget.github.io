@@ -1,3 +1,2 @@
-User-Agent: *
-Disallow: 
-Allow: /redgadgets.com/
+User-agent: *
+Disallow:
