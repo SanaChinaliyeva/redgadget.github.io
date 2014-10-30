@@ -458,8 +458,8 @@ tbody tr:nth-child(odd) th {
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
   background-color: #3498DB;
-  text-color: black;
-  text decoration :none;
+ color: black;
+  text-decoration: none;
   
 }
 
