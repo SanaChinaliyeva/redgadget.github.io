@@ -31,7 +31,7 @@ published: true
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older" style="color:black">Older</span>
+    <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -40,6 +40,6 @@ published: true
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer" style="color:black">Newer</span>
+    <span class="pagination-item newer" <font color="black">Newer</font></span>
   {% endif %}
 </div>
