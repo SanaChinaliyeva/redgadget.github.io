@@ -1,11 +1,13 @@
-var gulp = require('gulp'),
-        minifyCSS = require('gulp-minify-css');
+var gulp = require('gulp');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 
-gulp.task('minify-css', function() {
-  gulp.src('./dist/*.css')
-    .pipe(minifyCSS())
-    .pipe(gulp.dest('./'))
+gulp.task('default', function () {
+    return gulp.src('./images/*')
+        .pipe(imagemin({
+            progressive: true,
+            svgoPlugins: [{removeViewBox: false}],
+            use: [pngquant()]
+        }))
+        .pipe(gulp.dest('dist'));
 });
-
-gulp.task('default', ['minify-css']);
-
