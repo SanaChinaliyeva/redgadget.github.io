@@ -11,4 +11,3 @@ published: true
       {% endfor %}
    </ul>
 <hr>
-<div 
