@@ -17,6 +17,8 @@ After so many rumours and leaks, the Nexus 6 has revealed itself in all its glor
 
 >Camera is 13MP, pretty much Moto X 
 
+>Project Volta?! 90 minutes of extra battery life?  
+
 >Why you no put Micro SD slot?!
 
 >Ok, Android 5.0 Lollipop must be good! 
