@@ -24,3 +24,10 @@ version:         1.0
 
 github:
   repo:           https://github.com/sharathdt
+
+
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-56952216-1'
