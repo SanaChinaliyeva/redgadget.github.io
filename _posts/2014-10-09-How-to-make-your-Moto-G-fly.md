@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Make your Moto G super awesome!"
+title: "How To Make your Moto G super awesome!"
 published: true
 ---
 
