@@ -35,5 +35,5 @@ The screen isn't just big -- it's as high-definition as you can get these days, 
 ###What's AMOLED?
 Active Matrix Organic Light Emitting Diode, technology has grown in popularity in recent years. AMOLED screens consist of a thin layer of organic polymers that light up when zapped with an electric current. Due to this simple construction, AMOLED screens can be extremely thin and do not require a backlight. The benefit of losing a backlight is readily apparent: these screens are able to produce blacks so deep that the screen pixels can shut right off. Shutting off pixels can also save electricity and battery life in phones and tablets. Just keep your backgrounds close to black and you’ll save energy!
 
-
+Cons: Poor viewability in direct sunlight.
 
