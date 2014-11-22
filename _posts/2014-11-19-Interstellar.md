@@ -23,6 +23,11 @@ Zimmer spent a day composing the theme and then showed it to Nolan, and Nolan lo
 " I believe that Hans score for Interstellar has the tightest bond between music and image that we've yet achieved."
 >-Nolan
 
+
+
+
+
+
 >source - Business Insider
 
 
