@@ -5,6 +5,8 @@ published: true
 ---
 
 #How did Hans Zimmer Wrote The 'Interstellar' Theme! 
+" I believe that Hans score for Interstellar has the tightest bond between music and image that we've yet achieved."
+>-Nolan
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/sUT5RqHWt5w" frameborder="0" allowfullscreen></iframe>
 
@@ -20,28 +22,8 @@ Zimmer spent a day composing the theme and then showed it to Nolan, and Nolan lo
 
 "I asked him, 'Well, yes, but what is the movie?' And he started describing this huge, epic tale of space and science and humanity, on this epic scale. I'm going, 'Chris, hang on, I've just written this highly personal thing, you know?' He goes, 'Yes, but I now know where the heart of the movie is'. Everything about this movie was personal.'"
 
-" I believe that Hans score for Interstellar has the tightest bond between music and image that we've yet achieved."
->-Nolan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 >source - Business Insider
-
-
 
 
 
