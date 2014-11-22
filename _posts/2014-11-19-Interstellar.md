@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interstellar the tightest bond between music and image that we've yet achieved!
+title: Interstellar theme!
 published: true
 ---
 
