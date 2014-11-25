@@ -14,6 +14,6 @@ Maybe what you need isn’t a bigger phone, but a more personal, personal assist
 
 
 
-Samsung did the same thing thisyear even before the release of iPhone 6.
+Samsung did the same thing this year even before the release of iPhone 6.
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/QSDAjwKI8Wo" frameborder="0" allowfullscreen></iframe>
