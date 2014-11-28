@@ -6,7 +6,7 @@ published: true
 Sony has built a watch made entirely of e-paper where the band and the watch face would both change in response to the user's wrist gestures!
 
 
-![epaper](/images/epaper1.jpg)
+![epaper](/images/epaper1.JPG)
 
 
 The watch is extremely thin and makes no pretense of being smart, relying on the chameleonic flexibility of its appearance and a clean minimalist shape to win over fans. Because it has no sophisticated electronics inside, it's also said to last as long as 60 days on a single button battery
