@@ -7,6 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
+encoding: "utf-8"
 title:            Red-gadgets
 tagline:          'A tech blog, redgadgets gets updated regularly with the latest technology'
 description:      'Technology changes everyday! Track them on your fingertips!'
