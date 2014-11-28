@@ -69,8 +69,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.6);
- 
-  background-color: #202020;
+ background-color: #202020;
   
    
 }
@@ -86,9 +85,17 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
-  color: #fff;
+.sidebar-about a {
+	color: #fff;
+	text-decoration: none;
+	opacity: 1;
+	transition: opacity 0.5s ease;
 }
+.sidebar-about a:hover,
+.sidebar-about a:focus {
+	opacity:0.5;
+}
+
 
 /* About section */
 .sidebar-about h1 {
@@ -96,8 +103,6 @@ html {
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 2.2rem;
-
-  
 }
 
 /* Sidebar nav */
@@ -108,9 +113,17 @@ html {
   display: block;
   line-height: 1.75;
 }
+a.sidebar-nav-item{
+	color: #fff;
+	opacity: 1;
+	transition: opacity 0.5s ease;
+	text-decoration: none;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+	color: #fff;
+	text-decoration: none;
+	opacity:0.5;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -159,6 +172,7 @@ a.sidebar-nav-item:focus {
 }
 
 
+
 /*
  * Reverse layout
  *
@@ -169,6 +183,7 @@ a.sidebar-nav-item:focus {
   .layout-reverse .sidebar {
     left: auto;
     right: 0;
+	
   }
   .layout-reverse .content {
     margin-left: 2rem;
@@ -178,8 +193,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
+    margin-left: 6rem;
+    margin-right: 26rem;
   }
 }
 
@@ -197,10 +212,22 @@ a.sidebar-nav-item:focus {
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
+   transition: color 0.5s ease;
+  text-decoration: none;
+   -webkit-transition: 0.5s ease;
+            transition: 0.5s ease;
 }
-.theme-base-08 .content a,
+/* .theme-base-08 .content a, */
+.theme-base-08 .related-posts li a {
+-webkit-transition: 0.5s ease;
+            transition: 0.5s ease;
+  text-decoration: none;
+  color: #ac4142; 
+
+
+}
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #2980b9;
 }
 /* Orange */
 .theme-base-09 .sidebar {
