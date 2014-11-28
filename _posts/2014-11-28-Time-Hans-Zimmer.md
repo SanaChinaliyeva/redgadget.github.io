@@ -7,6 +7,11 @@ Zimmer has been playing piano since the age of three. By the time he was six, he
 
 'Time' is considered to be the best score by Hans Zimmer till date.
 
+<iframe width="100%" height="400" src="//www.youtube.com/embed/dZIssb8945M" frameborder="0" allowfullscreen></iframe>
+
 ##Zimmer explains how he came up with the BRAMMS
 
-“I remember before we made the movie, Chris and I were in London at the Sherlock Holmes premiere, and of course it ends up with the two of us in the corner somewhere talking about the movie we're about to make while everyone else is around us at the premiere going wild. We’re such party animals. And I said, 'I'll tell you what, let's just go and book a studio and get a couple of brass players.' The sound, really, is that I put a piano in the middle of a church and I put a book on the pedal, and these brass players would basically play into the resonance of the piano. And then I added a bit of electronic nonsense. But really, it just came from saying, 'Let's experiment.'”
+<iframe width="100%" height="400" src="//www.youtube.com/embed/kjzQFg28pRI" frameborder="0" allowfullscreen></iframe>
+
+“I remember before we made the movie, Chris and I were in London at the Sherlock Holmes premiere, and of course it ends up with the two of us in the corner somewhere talking about the movie we're about to make while everyone else is around us at the premiere going wild. We’re such party animals. And I said, 'I'll tell you what, let's just go and book a studio and get a couple of brass players.' The sound, really, is that I put a piano in the middle of a church and I put a book on the pedal, and these brass players would basically play into the resonance of the piano. And then I added a bit of electronic nonsense. But really, it just came from saying, 'Let's experiment.”
+
