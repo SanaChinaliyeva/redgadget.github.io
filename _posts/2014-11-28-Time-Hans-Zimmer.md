@@ -9,7 +9,8 @@ Zimmer has been playing piano since the age of three. By the time he was six, he
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/dZIssb8945M" frameborder="0" allowfullscreen></iframe>
 
-##Zimmer explains how he came up with the BRAMMS
+
+#Zimmer explains how he came up with the BRAMMS
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/kjzQFg28pRI" frameborder="0" allowfullscreen></iframe>
 
