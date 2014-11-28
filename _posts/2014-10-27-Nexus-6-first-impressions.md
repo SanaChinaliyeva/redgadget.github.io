@@ -54,3 +54,4 @@ Even as smartphones are getting bigger and better, battery life is often an issu
 
 
 
+----------------
