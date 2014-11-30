@@ -19,8 +19,8 @@ Type the following command in the command prompt and hit 'Enter'
 <code>netsh wlan set hostednetwork mode=allow ssid=Redgadgets  key=ReDGadGeT@321</code>
 
 
-####SSID:#### Name of your WiFi Hotspot.
-####Password:#### Password to connect to the newly created WiFi
+####SSID:                                                Name of your WiFi Hotspot.
+####Password:                                            Password to connect to the newly created WiFi
 
 ##Step 3:
 
