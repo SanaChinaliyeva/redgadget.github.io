@@ -3,7 +3,7 @@ layout: post
 title: WiFi Hotspot on Windows 7 Without any Software!
 published: true
 ---
-Many a times we have to share the internet connection that is available in our laptop to other devices say a phone, another laptop. One way to do that is by using a third party software like Connectify, Virtual Router Manager, Mhotspot etc. ,
+Many a times we have to share the internet connection that is available on our laptop to other devices say a phone, another laptop. One way to do that is by using a third party software like Connectify, Virtual Router Manager, Mhotspot etc. ,
 
 The other way, the simpler way is to use your laptop itself as a **WiFi Hotspot**
 

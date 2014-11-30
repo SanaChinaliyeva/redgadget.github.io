@@ -100,7 +100,7 @@ a:hover,
 a:focus {
 -webkit-transition: 0.5s ease;
             transition: 0.5s ease;
-  text-decoration: underline;
+  text-decoration: none;
   color: #2980b9;
 }
 
@@ -120,6 +120,7 @@ h1 {
   font-size: 2rem;
   
 }
+
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
@@ -165,7 +166,7 @@ hr {
   margin: 1.5rem 0;
   border: 0;
   border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
+  border-bottom: 2px solid #000;
 }
 
 abbr {
@@ -318,7 +319,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 50rem;
+  max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -369,16 +370,8 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Blog post or page title */
+https://play.google.com/store/apps/details?id=com.dxartist.redgadgets
 
-
-
-
-.page-title,
-.post-title {
-  margin-top: 0;
-  font-family: 'Open sans' sans-serif;
-  text-transform: uppercase;
-}
 
 
 /* Meta data line below post title */
