@@ -20,6 +20,8 @@ Type the following command in the command prompt and hit 'Enter'
 
 
 **SSID:** Name of your WiFi Hotspot.
+
+
 **Password:** Password to connect to the newly created WiFi
 
 ##Step 3:
