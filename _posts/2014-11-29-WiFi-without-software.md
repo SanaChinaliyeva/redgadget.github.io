@@ -19,12 +19,13 @@ Type the following command in the command prompt and hit 'Enter'
 <code>netsh wlan set hostednetwork mode=allow ssid=Redgadgets  key=ReDGadGeT@321</code>
 
 
-###SSID: 
+####SSID: 
 Name of your WiFi Hotspot.
-##Password: 
+####Password: 
 Password to connect to the newly created WiFi
 
 ##Step 3:
+
 Enable the HotSpot
 
 Type the following command and hit enter.
@@ -40,6 +41,10 @@ In order to stop the Wifi hotspot, Just type the following command in the comman
 
 
 ##Step 5:
+
+To enable sharing, Click on your default Internet connection and select Properties. Under the Sharing tab, tick the box saying – Allow other network users to connect through this computer’s Internet connection. Under the Home networking Connection, select the connection which is showing as your hotspot connection.
+
+###Note:
 
 For easy access, use **.bat** where these commands are loaded in it.
 
