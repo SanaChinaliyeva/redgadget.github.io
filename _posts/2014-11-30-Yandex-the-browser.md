@@ -12,7 +12,7 @@ Till date we have seen browsers with ugly navigation bars, bookmark tabs, settin
 First impression will remind you of the apps in Windows 8. The top navigation bar is simple with just the website description and four buttons on the top-right corner. One more thing to note is that the navigation bar is **translucent**! It changes it's colors with the webpage you are browsing.
 
 This is how the nav-bar looks like when you are browsing facebook.
-![yandex browser navigation bar](/images/yandex-5.jpg)
+![yandex browser navigation bar](/images/yandex-5.JPG)
 
 Yandex is a tidy new browser from Russian developers based on <a target="_blank" href="http://www.chromium.org/Home"><strong>Chromium Open Source project</strong></a>. It uses the <a target="_blank" href="http://www.opera.com/turbo" ><strong>Turbo technology</strong></a> of the browser Opera for slow connections. It's still in **beta version** but very promising.
 
@@ -33,7 +33,7 @@ I have used **Yandex launcher** before, on my android smartphone and I must admi
 
 Since it uses Chromium source, it runs in multiple processes just the chrome does it. Every extension is a new process. This may lead to higher CPU usage on low end PCs.  
 
-![Yandex Browser Processes](/images/yandex-4.jpg)
+![Yandex Browser Processes](/images/yandex-4.JPG)
 
 But this shouldn't be a problem on the high end PCs.
 
