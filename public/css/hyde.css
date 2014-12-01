@@ -94,12 +94,7 @@ html {
 
 
 /* About section */
-.sidebar-about h1 {
-  color: #fff;
-  margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 2.2rem;
-}
+
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -295,4 +290,4 @@ a.sidebar-nav-item:focus {
   font-family: 'Open sans' sans-serif !important;
   text-transform: uppercase;
 }
-	
+

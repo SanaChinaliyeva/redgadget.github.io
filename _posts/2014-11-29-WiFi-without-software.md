@@ -16,7 +16,7 @@ Open the Command prompt as Administrator (Right click and select Run as administ
 Type the following command in the command prompt and hit 'Enter'
 
 
-<code>netsh wlan set hostednetwork mode=allow ssid=Redgadgets  key=ReDGadGeT@321</code>
+<code>netsh wlan set hostednetwork mode=allow ssid=Redgadgets key=ReDGadGeT@321</code>
 
 
 **SSID:** Name of your WiFi Hotspot.
@@ -28,24 +28,28 @@ Type the following command in the command prompt and hit 'Enter'
 Enable the HotSpot
 
 Type the following command and hit enter.
+
+
 <code>netsh wlan start hostednetwork</code>
 
 Now go to Network And Sharing center and You can see your newly created wifi hotspot connection.But, as you can see, it has no network access.We need to fix this by enabling sharing of internet connection for your working Internet connection.In my case, it is wifi connection, but it can be Ethernet or any other working internet connection.
 
 ##Step 4: 
 
-In order to stop the Wifi hotspot, Just type the following command in the command prompt.
-<code>netsh wlan stop hostednetwork</code>
+To enable sharing, Click on your default Internet connection and select Properties. Under the Sharing tab, tick the box saying – Allow other network users to connect through this computer’s Internet connection. Under the Home networking Connection, select the connection which is showing as your hotspot connection.
 
 
 
 ##Step 5:
 
-To enable sharing, Click on your default Internet connection and select Properties. Under the Sharing tab, tick the box saying – Allow other network users to connect through this computer’s Internet connection. Under the Home networking Connection, select the connection which is showing as your hotspot connection.
+In order to stop the Wifi hotspot, Just type the following command in the command prompt.
+<code>netsh wlan stop hostednetwork</code>
+
+
 
 ###Note:
 
-For easy access, use **.bat** where these commands are loaded in it.
+If you like to use it daily then create a **.bat** where these commands are loaded in it.
 
 Lazy to do that?
 
