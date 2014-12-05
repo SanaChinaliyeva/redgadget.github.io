@@ -16,7 +16,7 @@ We started this blog on 8th of October 2014. The intention was to try a blog thr
 Some facts about the blog:
 
 * Built on Jekyll
-* Developed on GitHub and hosted for free on [GitHub](https://github.com)
+* Developed on GitHub and hosted on [GitHub](https://github.com)
 * Coded with [Prose](http://prose.io), an amazing online editor
 * Designed and developed in a small town.
 
