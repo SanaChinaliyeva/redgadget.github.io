@@ -35,7 +35,7 @@ Since it uses Chromium source, it runs in multiple processes just the chrome doe
 
 ![Yandex Browser Processes](/images/yandex-4.JPG)
 
-But this shouldn't be a problem on the high end PCs.
+But this shouldn't be a problem on high end PCs.
 
 #The perks
 
