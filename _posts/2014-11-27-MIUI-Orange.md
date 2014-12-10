@@ -4,7 +4,7 @@ title: "MIUI Orange Ringtone!"
 published: true
 ---
 
-<iframe width="100%" height="400" src="//www.youtube.com/embed/ylArgXg1HK0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/ylArgXg1HK0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 It was 4 years ago, I was trying all the custom ROMs possible on my Samsung Galaxy i9003. This was one of the earliest galaxy mobiles by Samsung.
 
