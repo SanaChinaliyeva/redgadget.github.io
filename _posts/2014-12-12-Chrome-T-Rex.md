@@ -22,3 +22,5 @@ The dinosaur shows up when Chrome can't connect to the Internet. It looks like t
 
 The game tracks your progress and high score, but stats are lost if the window closes or is refreshed.
 
+----------------------------------
+
