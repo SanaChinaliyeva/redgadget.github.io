@@ -107,7 +107,7 @@ Download and move the [XposedFramework.apk](http://dl.xposed.info/modules/de.rob
 7. Once the flash completes successfully, reboot the device into recovery to verify the installation. Boot to recovery instructions: Hold <b>Volume Down</b> & <b>Power</b> simultaneously. On the next screen use <b>Volume Down</b> to scroll to recovery and then use <b>Volume Up</b> to select.
 
 Recovery mode looks like this. 
-![Moto G recovery mode](https://lh3.googleusercontent.com/-woLIu-D6554/VDU6Fp6IQHI/AAAAAAAAAAk/jvGvMIQN5bY/w620-h323-no/Recovery-Mode.jpg)
+![Moto G recovery mode](/images/recovery.jpg)
 
 Reboot the device. Install [supersu](https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en) and [busybox](https://play.google.com/store/apps/details?id=stericson.busybox&hl=en).
 
@@ -123,7 +123,7 @@ Now it'll ask for a reboot.
 
 
 Xposed Framework will look like the below screenshot.
-![Xposed Framework](https://lh4.googleusercontent.com/N4S2sV8JfrrdKLDgx1fvE-WvAbCMPXWUGR2H5uYnYQ=w928-h550-no)
+![Xposed Framework](/images/xposed.jpg)
 
 
 >You may have to reboot a lot many times than usual, but it's worth it.
@@ -155,18 +155,18 @@ I have installed some modules like
 >Here I have changed my status bar color. Usually the icons will be white, I have changed them to cyan. The tiles on the second screenshot are not available in stock ROM. I have quick toggle tiles that are really awesome. There is a camera tile, on clicking which you can take photos rightaway. No need to open camera app! The navigation bar is already using the <b>Android L</b> navbar. This is cool right?
 
 
-![Status Bar Tweaks](https://lh6.googleusercontent.com/-T_qdwtkbDpY/VDVU52k8DGI/AAAAAAAAACA/YfUujnVbnFk/w670-h593-no/statusbar.jpg)
+![Status Bar Tweaks](/images/statusbar.jpg)
 
 ---------------
 ><b>Xtended NavBar</b> does some cool stuff with your navigation bar. You can now swipe it and control music and other toggles. Not a great deal but once you get used to this then you'll know how hard it is to pull down and click on a quick toggle to turn your Wi-Fi on!
 
 
-![Navigation Bar Tweaks](https://lh6.googleusercontent.com/-QA6_84vYQZY/VDVU6UfMYyI/AAAAAAAAACM/cO2EWwXvMjA/w1004-h593-no/navbar.jpg)
+![Navigation Bar Tweaks](/images/navbar.JPG)
 
 ----------------
 >Finally the <b>GravityBox</b>. This is the module through which you can change almost anything on your phone. All those quick toggles you saw on the first screenshot was because of GravityBox. Customize your phone as you like. There are youtube videos available on how to use GravityBox!
 
-![GravityBox Tweaks](https://lh5.googleusercontent.com/-Oo0q9P-dAr0/VDVU52wlsKI/AAAAAAAAACI/O6OSMAIZwV0/w1008-h593-no/gravitybox.jpg)
+![GravityBox Tweaks](/images/gravitybox.jpg)
 
 
 Thanks!
